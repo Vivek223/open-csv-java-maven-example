@@ -1,0 +1,1 @@
+This project is to demostrate open csv features in a java maven app.
